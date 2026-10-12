@@ -21,6 +21,7 @@ ASSETS = {
     "susfs_guard_lkm-android14-6.1.ko": "3c3d0f07466f79e069c3cb1bbf3c04da57ef31da345f6bfbb62f4ac60642d1e5",
     "susfs_guard_lkm-android15-6.6.ko": "cae2730a0a2b42b00a8e80a605d052c78d607370a3c1cd1462a066ea44c36052",
     "susfs_guard_lkm-android16-6.12.ko": "c108e630882c9d99b2a61f0419626477ae65ccf427d4e53ed327f4259b460edf",
+    "susfs_guard_lkm-android17-6.18.ko": "42072deda243ce7ee7a1f0979339cd553464cd52a4a49697f9e7b3937c167875",
     "susfs_insmod": "2c23e2259d5ad4d324add01caa6e0d9a03d0e34ee7f112237176568d12630608",
 }
 
