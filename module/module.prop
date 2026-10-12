@@ -1,6 +1,6 @@
 id=susfs_lkm_loader
 name=SUSFS LKM Loader
-version=0.2.0
-versionCode=2
+version=0.2.1
+versionCode=3
 author=matsuzaka-yuki; LKM by inforcqb
 description=KernelSU-compatible SUSFS loader with automatic selection across 6 upstream arm64 KMIs (5.10-6.6). No rule management. Reboot required.
